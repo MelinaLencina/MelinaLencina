@@ -18,11 +18,6 @@
 
 <p align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=MelinaLencina&bg_color=2f2641&color=FEB139&line=D61C4E&point=4a148c&area=true&hide_border=true">
-
-</p>
-
-
 
 - 💻 I’m working at [Accenture](https://www.accenture.com/ar-es) as a SAP Security Consultant
 
