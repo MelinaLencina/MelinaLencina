@@ -14,7 +14,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaLencina&layout=compact&card_width=900&theme=radical&hide_border=true)](https://github.com/MelinaLencina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaLencina&layout=compact&card_width=800&theme=radical&hide_border=true)](https://github.com/MelinaLencina/github-readme-stats)
 
 <p align="center">
 
