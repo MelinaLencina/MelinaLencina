@@ -13,8 +13,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MelinaLencina&show_icons=true&card_width=400&height=600&theme=radical&%20%20%20%20%20%20include_all_commits=true&hide_border=true" />
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaLencina&layout=compact&card_width=800&theme=radical&hide_border=true)](https://github.com/MelinaLencina/github-readme-stats)
+<p>
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelinaLencina&layout=compact&card_width=800&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
 
