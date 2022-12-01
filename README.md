@@ -61,7 +61,7 @@
 
 ### Education and certifications :books: 
  
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) Avalith ReactJS :zap:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS :zap:
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Codo a Codo Desarrollo FullStack con NodeJS y ReactJS :boom:
 
