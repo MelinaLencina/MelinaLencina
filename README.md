@@ -60,6 +60,11 @@
 
 
 ### Education and certifications :books: 
+
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40) Google UX Design :bookmark_tabs:
+
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) Codo a Codo Desarrollo FullStack con Python :snake:
+
  
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS :zap:
 
