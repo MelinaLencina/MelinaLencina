@@ -20,9 +20,9 @@
 <p>
 
 
-- 💻 I’m working at [Accenture](https://www.accenture.com/ar-es) as a SAP Security Consultant
+- 💻 I’m working at [PwC](https://www.pwc.com.ar/) as a Semi-Senior SAP Security Consultant
 
-- 🔍 I’m currently learning **ReactJS and AWS**
+- 🔍 I’m currently learning **SAP GRC and AWS**
 
 </p>
 
@@ -63,7 +63,7 @@
 
 ![](https://geps.dev/progress/40) Google UX Design :bookmark_tabs:
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) Codo a Codo Desarrollo FullStack con Python :snake:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Codo a Codo Desarrollo FullStack con Python :snake:
 
  
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS :zap:
